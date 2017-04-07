@@ -1,0 +1,62 @@
+\begin{thebibliography}{Gum80}
+
+\bibitem[DG92]{MR1145556}
+A.~Day and H.~P. Gumm.
+\newblock Some characterizations of the commutator.
+\newblock {\em Algebra Universalis}, 29(1):61--78, 1992.
+\newblock URL: \url{http://dx.doi.org/10.1007/BF01190756}, \href
+  {http://dx.doi.org/10.1007/BF01190756} {\path{doi:10.1007/BF01190756}}.
+
+\bibitem[Fre08]{MR2470585}
+Ralph Freese.
+\newblock Computing congruences efficiently.
+\newblock {\em Algebra Universalis}, 59(3-4):337--343, 2008.
+\newblock URL: \url{http://dx.doi.org/10.1007/s00012-008-2073-1}, \href
+  {http://dx.doi.org/10.1007/s00012-008-2073-1}
+  {\path{doi:10.1007/s00012-008-2073-1}}.
+
+\bibitem[Gum80]{MR590312}
+H.-Peter Gumm.
+\newblock An easy way to the commutator in modular varieties.
+\newblock {\em Arch. Math. (Basel)}, 34(3):220--228, 1980.
+\newblock URL: \url{http://dx.doi.org/10.1007/BF01224955}, \href
+  {http://dx.doi.org/10.1007/BF01224955} {\path{doi:10.1007/BF01224955}}.
+
+\bibitem[HH79]{MR541622}
+Joachim Hagemann and Christian Herrmann.
+\newblock A concrete ideal multiplication for algebraic systems and its
+  relation to congruence distributivity.
+\newblock {\em Arch. Math. (Basel)}, 32(3):234--245, 1979.
+\newblock URL: \url{http://dx.doi.org/10.1007/BF01238496}, \href
+  {http://dx.doi.org/10.1007/BF01238496} {\path{doi:10.1007/BF01238496}}.
+
+\bibitem[Kea95]{MR1358491}
+Keith~A. Kearnes.
+\newblock Varieties with a difference term.
+\newblock {\em J. Algebra}, 177(3):926--960, 1995.
+\newblock URL: \url{http://dx.doi.org/10.1006/jabr.1995.1334}, \href
+  {http://dx.doi.org/10.1006/jabr.1995.1334}
+  {\path{doi:10.1006/jabr.1995.1334}}.
+
+\bibitem[KS98]{MR1663558}
+Keith~A. Kearnes and {\'A}gnes Szendrei.
+\newblock The relationship between two commutators.
+\newblock {\em Internat. J. Algebra Comput.}, 8(4):497--531, 1998.
+\newblock URL: \url{http://dx.doi.org/10.1142/S0218196798000247}, \href
+  {http://dx.doi.org/10.1142/S0218196798000247}
+  {\path{doi:10.1142/S0218196798000247}}.
+
+\bibitem[Lip94]{MR1257643}
+Paolo Lipparini.
+\newblock Commutator theory without join-distributivity.
+\newblock {\em Trans. Amer. Math. Soc.}, 346(1):177--202, 1994.
+\newblock URL: \url{http://dx.doi.org/10.2307/2154948}, \href
+  {http://dx.doi.org/10.2307/2154948} {\path{doi:10.2307/2154948}}.
+
+\bibitem[Smi76]{MR0432511}
+Jonathan D.~H. Smith.
+\newblock {\em Mal$\prime$cev varieties}.
+\newblock Lecture Notes in Mathematics, Vol. 554. Springer-Verlag, Berlin-New
+  York, 1976.
+
+\end{thebibliography}
