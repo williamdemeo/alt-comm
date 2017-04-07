@@ -8,7 +8,12 @@ easily to a polynomial time algorithm for computing it.
 **Author**: William DeMeo
 **Year**: 2017
 **Abstract** We present a description of the (non-modular) commutator, inspired by that of
-  Kearnes in [1][], that provides a simple recipe for computing
-  the commutator. 
+  Kearnes in [\[1\]](http://dx.doi.org/10.1006/jabr.1995.1334), that provides a simple 
+  recipe for computing the commutator. 
 
-[1]: http://dx.doi.org/10.1006/jabr.1995.1334
+
+[1] Keith~A. Kearnes.
+[Varieties with a difference term](http://dx.doi.org/10.1006/jabr.1995.1334).
+*J. Algebra*, 177(3):926--960, 1995.
+  
+[\[1\]]: http://dx.doi.org/10.1006/jabr.1995.1334
